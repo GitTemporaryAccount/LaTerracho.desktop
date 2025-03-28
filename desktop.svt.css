@@ -1,4 +1,5 @@
 #all{
+    width: auto;
     background-color: rgb(78, 78, 78);
 }
 .div1{
@@ -15,6 +16,7 @@
     border-radius: 10px;
     opacity: 1;
 }
+
 .para{
     position: absolute;
     margin: 50px;
@@ -48,9 +50,6 @@
     border-bottom: none;
     transition: 0.3s;
 }
-.menu{
-    display: none;
- }
 
 #theme1{opacity: 1;}
 #theme2{opacity: 0;}
