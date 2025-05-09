@@ -52,7 +52,7 @@
     transition: 0.3s;
 }
 
-#theme0{z-index: -1;}
+#theme0{z-index: 0;}
 #theme1{z-index: -1;}
 #theme2{z-index: -1;}
 #theme3{z-index: -1;}
