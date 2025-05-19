@@ -62,14 +62,12 @@
 
 .splitL{
     width: 48%;
-    background-color: rgb(72, 255, 0);
 }
 .splitR{
     position: inherit;
     width: 48%;
     margin-left: 52%;
     top: 0%;
-    background-color: tomato; 
 }
 #loutre{
     width: 50%;
